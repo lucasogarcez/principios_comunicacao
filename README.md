@@ -1,9 +1,11 @@
 # Princípios de Comunicação
-Este é um repositório destinado ao desenvolvimento de uma aplicação pessoal para a disciplina de Princípios de Comunicação, com objetivo de tornar o aprendizado teórico algo mais visual, ao implementar os conhecimentos na prática.
+Este repositório foi criado como parte da disciplina Princípios de Comunicação, com o objetivo de transformar o aprendizado teórico em algo mais visual e prático, por meio do desenvolvimento de aplicações relacionadas aos conceitos estudados.
 
 Todas as pastas são aplicações diferentes, contendo uma estrutura de arquivos como:
-- **.py** (código fonte)
-- **.ipynb** (código explicado e comentado)
+- Arquivos **.py** (código-fonte)
+- Arquivos **.ipynb** (notebook explicado e comentado)
 
-## Links (simulações)
-- [Simulação de transmissão por canal ruidoso](./simulacao_canal_ruidoso/)
+## 🔗 Simulações
+**Transmissão por Canal Ruidoso**
+- 📁 [Pasta código-fonte](./simulacao_canal_ruidoso/)
+- 🌐 [Simulação online](https://simulacao-ruidoso.streamlit.app)
